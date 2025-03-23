@@ -768,3 +768,20 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [15:12:07 | 23-03-2025] 🚨 Failed to start node for 0x4a64D08b7C253E361238964E04E88e6f32faaf28: [object Object]
+[19:16:52 | 23-03-2025] Wallet Address: 0x4a64D08b7C253E361238964E04E88e6f32faaf28
+[19:16:52 | 23-03-2025] Node Points: 716050
+[19:16:52 | 23-03-2025] Last Claim Point: 22/03/2025 08:11:34
+[19:17:03 | 23-03-2025] 🚨 Failed to claim points for 0x4a64D08b7C253E361238964E04E88e6f32faaf28: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[19:17:04 | 23-03-2025] 🚨 Failed to start node for 0x4a64D08b7C253E361238964E04E88e6f32faaf28: [object Object]
